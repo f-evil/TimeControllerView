@@ -47,4 +47,4 @@ stv_chart.setMinMaxValue(0, 11);
 - 暂无
 
 ### 8. 博客地址
-[OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
+[TimeControllerView](http://www.nooocat.com/index.php/2020/01/13/308/)
