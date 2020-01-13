@@ -3,7 +3,7 @@
 ### 0. 系列文章
 - [1. 自定义View入门学习-OneChart](http://www.nooocat.com/index.php/2019/11/04/283/)
 - [2. 自定义View入门学习-WheelView](http://www.nooocat.com/index.php/2019/11/15/296/)
-- [3. 自定义View入门学习-TimeControllerlView](http://www.nooocat.com/index.php/2019/11/15/296/)
+- [3. 自定义View入门学习-TimeControllerlView](http://www.nooocat.com/index.php/2020/01/13/308/)
 
 ### 1. 原始效果图
 ![原始效果图](https://s2.ax1x.com/2020/01/13/l7Izz4.png)
