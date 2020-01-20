@@ -579,11 +579,11 @@ public class TimeControllerView extends View {
     /**
      * @param anim 是否进行平滑动画
      */
-    public void setBodyWeight(int bodyWeight, boolean anim) {
+    public void setCurrentValueByAnima(int currentValue, boolean anim) {
         if (anim) {
-            startSmoothAnim(bodyWeight, MAX_FLING_DURATION);
+            startSmoothAnim(currentValue, MAX_FLING_DURATION);
         } else {
-            setCurrentValue(bodyWeight);
+            setCurrentValue(currentValue);
         }
     }
 
